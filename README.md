@@ -16,6 +16,13 @@ Continue fazendo palpites até acertar o número ou até esgotar as chances.
 Caso esgote as chances, o jogo termina e será exibido o número correto.
 Se desejar, você pode optar por jogar novamente digitando 'S' para continuar ou qualquer outra tecla para sair.
 Divirta-se jogando e boa sorte!
+<h3> Links para Download </h3>
+<br>
+<a href="https://github.com/marcelocodigos/jogoAdivinhacaoVisualG/blob/main/adivinhacao-versao1.1.ALG">Ver código</a>
+<bR>
+<a href="https://github.com/marcelocodigos/jogoAdivinhacaoVisualG/archive/refs/tags/1.1.zip">Baixar Arquivo</a>
+<br>
+ <a href="https://youtube.com/webprogramadores">Canal Do youtube Se Inscreva !</a>
 
 <p>Data atual: 26/05/2023</p>
 <b>Chave PIX: 595cf622-d87b-446b-a410-bbdb88e760cb</b>
